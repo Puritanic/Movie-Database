@@ -10,8 +10,6 @@
 <script>
 import Header from './components/Header.vue'
 
-console.log(process.env)
-
 export default {
 	name: 'app',
 	data() {
