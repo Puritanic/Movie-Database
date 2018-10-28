@@ -1,4 +1,4 @@
-# todo-board
+#  Vue Movie Database
 
 ## Project setup
 ```
